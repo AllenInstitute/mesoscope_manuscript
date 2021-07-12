@@ -1,7 +1,6 @@
 ## Codes used for the analysis of the Allen Institute Multiscope data described in this paper: https://www.biorxiv.org/content/10.1101/2020.10.06.328294v2
 
-The codes in this repository use the Visual Behavior dataset collected at the Allen Institute using Multiplane Mesoscopes.
-Dataset:
+The codes in this repository use the Visual Behavior dataset collected at the Allen Institute using Multiplane Mesoscope Dataset:
 https://portal.brain-map.org/explore/circuits/visual-behavior-2p
 
 
